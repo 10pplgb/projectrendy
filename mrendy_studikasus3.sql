@@ -23,3 +23,6 @@ select avg(energy) as rata_rata_energy from songs
 --no8
  select name from songs
      where name like '%feat%';
+
+
+--perubahan di siniii
